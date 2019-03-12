@@ -24,6 +24,6 @@ ReactDOM source code: https://github.com/facebook/react/tree/master/packages/rea
 
 React Components, refs, context, etc. source code: https://github.com/facebook/react/tree/master/packages/react/src
 
+## Custom Implementation
 
-
-
+How to create a custom reconciler: https://medium.com/@agent_hunt/hello-world-custom-react-renderer-9a95b7cd04bc
